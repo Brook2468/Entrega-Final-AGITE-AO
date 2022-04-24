@@ -80,6 +80,13 @@
 }
 
 a{
+    color: black;
+    display:flex;
+    justify-content: center;
+}
+
+#a2{
+    color: gold;
     display:flex;
     justify-content: center;
 }
