@@ -164,3 +164,9 @@ p{
 #audioao{
     width: 250px;
 }
+
+#ServerStatus{
+    display: flex;
+    margin-top: 60%; 
+    right: 50%;
+}
