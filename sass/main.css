@@ -149,8 +149,7 @@ p {
 #ImgAo {
   max-width: 50px;
   max-height: 50px;
-  -o-object-fit: contain;
-     object-fit: contain;
+  float: left 25%;
 }
 
 /*buttons*/
