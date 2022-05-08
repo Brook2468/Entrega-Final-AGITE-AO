@@ -136,20 +136,9 @@ p {
   left: 25%;
 }
 
-#LastButton {
-  color: black;
-  display: -webkit-box;
-  display: -ms-flexbox;
-  display: flex;
-  -webkit-box-pack: center;
-      -ms-flex-pack: center;
-          justify-content: center;
-}
-
 #ImgAo {
   max-width: 50px;
   max-height: 50px;
-  float: left 25%;
 }
 
 /*buttons*/
@@ -195,6 +184,16 @@ p {
 
 .btn--4 {
   left: 25%;
+}
+
+#LastButton {
+  color: black;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: center;
+      -ms-flex-pack: center;
+          justify-content: center;
 }
 
 /*ribbons*/
