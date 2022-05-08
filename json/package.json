@@ -1,0 +1,23 @@
+{
+  "name": "segunda-entrega-23-04",
+  "version": "1.0.0",
+  "description": "Migrando a SASS",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "compile:sass": "node-sass sass/main.scss css/main.css --watch"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Brook2468/Segunda-entrega-20-03.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Brook2468/Segunda-entrega-20-03/issues"
+  },
+  "homepage": "https://github.com/Brook2468/Segunda-entrega-20-03#readme",
+  "dependencies": {
+    "node-sass": "^7.0.1"
+  }
+}
