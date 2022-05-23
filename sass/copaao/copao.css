@@ -44,7 +44,24 @@ nav, .servicios, .presentacion, .footer-content {
 
 p {
   font-size: 1.8rem;
-  color: #868484;
+}
+
+#Paladines{
+  color: cyan;
+  font-size: medium;
+  margin-right: 2cm;
+}
+
+#Druidas{
+  color: rgb(89, 207, 89);
+  font-size: medium;
+  margin-right: 2cm;
+}
+
+#Magos{
+  color: red;
+  font-size: medium;
+  margin-right: 2cm;
 }
 
 h1 {
@@ -81,12 +98,12 @@ h3 {
 }
 
 .btn-principal {
-  color: #fff;
-  background-color: #6495ED;
+  color: rgb(2, 1, 1);
+  background-color: gold;
 }
 
 .btn-secundario {
-  background-color: #868484;
+  background-color: #a531af;
 }
 
 .logo {
@@ -191,7 +208,6 @@ nav ul a:hover {
 
 .servicios .tipo-servicios i {
   font-size: 30px;
-  color: #ffffff;
 }
 
 footer {
@@ -255,7 +271,8 @@ footer .footer-content {
 }
 
 #separador {
-  color: white;
+  color: gold;
+
 }
 
 #footer {
